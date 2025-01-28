@@ -4,7 +4,7 @@ public class CameraMove : MonoBehaviour
 {
     public Transform target;
     public float borderSize = 0.1f; // Border size as a fraction of the viewport width/height
-    public float smoothing = 0.1f; // Smooth the camera movement
+    //public float smoothing = 0.1f; // Smooth the camera movement
 
     private Camera mainCamera;
 
